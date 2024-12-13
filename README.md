@@ -8,6 +8,12 @@ Requirements
 5.	Populate the rest of the nulls as not_available
 6.	Drop column director, listed_in country, cast
 
+Objective
+1.	For each director count the no of movies and tv shows created by then in separate columns for directors who have  created tv shows and movies both
+2.	Which country has highest  number of comedy movies
+3.	For each year ( as per date added to netflix), which director has max number of movies released
+4.	What is the average duration of movies in each genre
+5.	Find the list of directors who have created both comedy and horror movies. Display director names along with the no. of comedy and horror movies directed by them
 
 
 Solution Approach:-
